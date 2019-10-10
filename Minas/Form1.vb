@@ -41,7 +41,7 @@
         For li = 0 To 8
             For co = 0 To 8
                 Quadro(li, co).BorderStyle = BorderStyle.FixedSingle
-                Quadro(li, co).BackColor = Color.LightGray
+                Quadro(li, co).BackColor = Color.Blue
                 Quadro(li, co).BackgroundImage = Nothing
                 Quadro(li, co).minas = 0
                 Quadro(li, co).bomba = False
